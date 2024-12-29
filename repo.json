@@ -1,0 +1,56 @@
+{
+  "name": "Quantum Source",
+  "identifier": "com.quarksources.quantumsource",
+  "apiVersion": "v2",
+  "subtitle": "Contains all of your favorite emulators, games, jailbreaks, utilities, and more.",
+  "description": "This source is an automatically kept up-to-date source, powered by GitHub Actions, the Python altparse library, and the support of independent developers. In here, you'll find anything from community maintained forks of Delta Emulator, to tiny Mac utilities that no one's ever heard of. If you have an app you'd like to see here, please use our website to reach out!",
+  "iconURL": "https://quarksources.github.io/assets/ElementQ-Circled.png",
+  "headerURL": "https://quarksources.github.io/assets/quantumsource.png",
+  "website": "https://quarksources.github.io/",
+  "tintColor": "#343a40",
+  "featuredApps": [
+    "com.litritt.ignited",
+    "com.example.mame4ios",
+    "com.wh0ba.xpatcher",
+    "net.namedfork.minivmac",
+    "com.antique.emuThreeDS"
+  ],
+  "apps": [
+    {
+      "name": "emuThreeDS",
+      "bundleIdentifier": "com.antique.emuThreeDS",
+      "developerName": "Antique",
+      "subtitle": "Nintendo 3DS emulator for iOS.",
+      "localizedDescription": "emuThreeDS is a Nintendo 3DS emulator for Apple TV, iPad and iPhone based on Citra.",
+      "iconURL": "https://i.imgur.com/XUAH0bL.png",
+      "tintColor": "#5CA399",
+      "screenshotURLs": [
+        "https://i.imgur.com/AhhhDIK.png",
+        "https://i.imgur.com/u05omA7.png"
+      ],
+      "versions": [
+        {
+          "absoluteVersion": "1.0.7.1.2",
+          "version": "1.0.7.1",
+          "buildVersion": "2",
+          "date": "2024-03-01T03:47:43Z",
+          "localizedDescription": "# v1.0.7.1.2\n\n",
+          "downloadURL": "https://github.com/emuPlace/emuThreeDS/releases/download/v1.0.7.1.2/emuThreeDS_v1.0.7.1.2.ipa",
+          "size": 35010897,
+          "sha256": "e27a76af0128c1af81f51bfffe8983a461bb76861cf0c93a0388f9c16339bdcf"
+        },
+        {
+          "absoluteVersion": "1.0.6.5.6",
+          "version": "1.0.6.5",
+          "buildVersion": "6",
+          "date": "2023-07-31T11:16:28Z",
+          "localizedDescription": "# v1.0.6.5 (6) is now out!\n\nSee **[CHANGELOG.md](https://github.com/emuplace/emuthreeds/blob/main/resources/markdowns/CHANGELOG.md)** for more information.",
+          "downloadURL": "https://github.com/emuPlace/emuThreeDS/releases/download/1.0.6.5.6/emuThreeDS.v1.0.6.5.6.ipa",
+          "size": 35642893,
+          "sha256": "f1b0d1df9ca3ce907869aa9d18d109e1c2bceb283971f23bf42de3ecd59e28c9"
+        },
+        {
+          "absoluteVersion": "1.0.6.4",
+          "version": "1.0.6",
+          "buildVersion": "4",
+          "
